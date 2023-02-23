@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 5% 5%;
+  height: 400px;
+  border: 1px solid #282c34;
+  display: inline-block;
 }
 
 .App-logo {
@@ -27,7 +31,33 @@
 .App-link {
   color: #61dafb;
 }
-
+.title{
+  background-color: rgb(0,0,0);
+  padding: 5px;
+  text-align: center;
+  color: aliceblue;
+  margin-top: 20px;
+  position: relative;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.dispImage{
+  width: 150px;
+  height: 200px;
+  
+}
+.un_list{
+  list-style: square ;
+  margin-top: 1%;
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  
+}
+/* .arrowImg{
+  height: 5px;
+  width: 5px;
+} */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
