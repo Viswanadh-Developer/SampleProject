@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The Project Name we are working on is Sample Project.
 
+The Project is intended to test whether git is working proper or not.
+
 ## Available Scripts
 
 In the project directory, you can run:
