@@ -6,6 +6,8 @@ The Project Name we are working on is Sample Project.
 
 The Project is intended to test whether git is working proper or not.
 
+This Project realease version is 1.0
+
 ## Available Scripts
 
 In the project directory, you can run:
